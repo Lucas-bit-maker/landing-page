@@ -175,3 +175,17 @@ body {
     background-color: #3882F6;
 
 }
+
+.footercontainer {
+    background-color: #1f2937;
+}
+
+.footertextcontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footertext {
+    color: #e5e7eb;
+}
